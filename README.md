@@ -9,7 +9,7 @@
 - ⚡ I love svelte!  
   
 
-- 🚗 I’m currently working on a social media app
+- 🤠 I'm working on a website that should make learning programming as an apprentice easier.
   
   
 
