@@ -9,7 +9,7 @@
 - ⚡ I love svelte!  
   
 
-- 🥴 Always bussy
+- 🥴 Always busy
   
   
 
